@@ -1,5 +1,5 @@
 # Banana Speak
-### Translates User entered texxt into Minion Language.
+### Translates User entered text into Minion Language with the help of external API.
 <br/>
 
 # How to use:
